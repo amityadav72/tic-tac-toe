@@ -1,4 +1,4 @@
-# tic-tac-toe
+
 import os
 import time
 
